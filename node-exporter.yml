@@ -1,0 +1,3 @@
+- name: Install node-exporter
+  roles:
+  - role: ansible-node-exporter

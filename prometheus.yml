@@ -1,0 +1,3 @@
+- name: Install prometheus server
+  roles:
+  - role: ansible-prometheus

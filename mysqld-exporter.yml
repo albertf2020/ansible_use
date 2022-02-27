@@ -1,0 +1,3 @@
+- name: Install mysqld exporter
+  roles:
+  - role: ansible-mysqld-exporter

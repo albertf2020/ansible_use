@@ -1,0 +1,10 @@
+---
+- import_playbook: prometheus.yml
+- import_playbook: alertmanager.yml
+- import_playbook: grafana.yml
+- import_playbook: node-exporter.yml
+- import_playbook: mysqld-exporter.yml
+- import_playbook: blackbox-exporter.yml
+- import_playbook: nginx.yml
+- import_playbook: users.yml
+- import_playbook: fluentd.yml

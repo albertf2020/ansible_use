@@ -1,0 +1,3 @@
+- name: Install alertmanager server
+  roles:
+  - role: ansible-alertmanager

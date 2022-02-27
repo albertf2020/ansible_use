@@ -1,0 +1,3 @@
+- name: Install fluentd
+  roles:
+  - role: fluentd-role
