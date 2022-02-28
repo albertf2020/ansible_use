@@ -8,3 +8,4 @@
 - import_playbook: ./nginx.yml
 - import_playbook: ./users.yml
 - import_playbook: ./fluentd.yml
+- import_playbook: ./vim.yml
