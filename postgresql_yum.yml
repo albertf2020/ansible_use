@@ -1,0 +1,3 @@
+- name: Install postgresql_yum
+  roles:
+  - role: postgresql_yum
